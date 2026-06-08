@@ -1,0 +1,2 @@
+postgresql://finance_app_db_jodm_user:GN2dU1CPOE8OIAjtQAB1uEy9L4QR2LQ9@dpg-d8iskvgjo6nc73dmeap0-a/finance_app_db_jodm
+SECRET_KEY=K7fQv9cH2mXr8NwL5pZ1tY6sG3dV0aJ9uE4kB7nS2hT8qR1cM6xP9vL3gD0wF5zH
